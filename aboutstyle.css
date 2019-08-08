@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    padding-top: -10px;
+    color: white;
+    float: left;
+    
+}
+
+body{
+    background-color: lightcyan;
+    float: center;
+   
+}
+
+
+.Anthony img
+{
+  
+    height:300px;
+    width: auto;
+    float: auto; 
+}
+
+.header{
+    width: 100%;
+    height:80px;
+    display:block;
+    background-color: #101010;
+}
+
+.innerheader{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: lightpink;
+
+}
+.partone p{
+    font-weight: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.parttwo p{
+    font-weight: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-weight: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.AnthonyTwo{
+    float:right;
+    height:300px;
+    width: auto;
+}
+.bio h2{
+    font-family: 'Hindi', sans-serif;
+    padding-top: 20px;
+    font-size: 32px;
+    font-weight: 200;
+    float:center;
+    position: absolute;
+    top: 100px;
+    left: 685px;
+}
+.class{
+    padding-bottom:-1000px;
+}
+
+.footer{
+    text-align:center;
+    float: center;
+}
+
+

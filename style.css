@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    padding-top: -10px;
+    color: white;
+    
+}
+
+body{
+    background-color: lightcyan;
+    float: center;
+    background-image: url("https://giphy.com/embed/8Ch5synQy5tKM");
+}
+
+
+.Anthony img
+{
+  
+    height:300px;
+    width: auto;
+    float: auto; 
+}
+
+.header{
+    width: 100%;
+    height:80px;
+    display:block;
+    background-color: #101010;
+    position:fixed;
+}
+
+.innerheader{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: lightpink;
+
+}
+
+
+h2{
+    font-family: 'Hindi', sans-serif;
+    padding-top: 20px;
+    font-size: 32px;
+    font-weight: 200;
+}
+.class{
+    padding-bottom:-1000px;
+}
+#Hometown p{
+    float: left;
+}
+.footer{
+    text-align:center;
+}
+
+
+    
+.dimebag{
+    float: center;
+}
+
